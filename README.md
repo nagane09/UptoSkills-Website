@@ -3,3 +3,4 @@ I have created the leading Skill Tech platform designed to help individuals and 
 The mission of this website is to create a positive impact by providing innovative and industry-relevant training programs that unlock new opportunities and empower individuals to succeed in the fast-paced job market.
 
 Here is the link to the Website:-  
+[Click Here] (https://nagane09.github.io/UptoSkills-Website/)
